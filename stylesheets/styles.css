@@ -1,3 +1,13 @@
+/* My custom style */
+
+.tags {
+  font-size: .8em;
+  font-weight: bold;
+  margin-left: .5em;
+}
+
+/* ----------------------- */
+
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
